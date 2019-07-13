@@ -7,7 +7,6 @@
 //    <h1>Lambda Times</h1>
 //    <span class="temp">98°</span>
 //  </div >
-// And add it to the DOM in the .header-container component
 
 const headerMain = document.querySelector('.header-container');
 
