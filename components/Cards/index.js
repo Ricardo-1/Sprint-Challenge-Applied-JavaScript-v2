@@ -53,4 +53,7 @@ function createCard(person) {
     
 
     return card;
-};
+}
+
+
+//I THINK I SCREWED UP THE PR/MERGER TEST 1.
